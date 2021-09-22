@@ -11,6 +11,7 @@
     "core-js": "^3.6.5",
     "eslint-config-tencent": "^1.0.2",
     "exceljs": "^4.3.0",
+    "gh-pages": "^3.2.3",
     "vue": "^2.6.11",
     "xlsx": "^0.17.1"
   },
@@ -23,6 +24,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
   },
+  "homepage": "https://lzmCloud.github.io/lerna-demo",
   "eslintConfig": {
     "root": true,
     "env": {
